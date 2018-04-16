@@ -12,3 +12,5 @@ content:'当浮于大白',       //弹窗的内容
 suerButton:false,          //弹窗是否有确认键
 sureButtonText:'确定',     //'确认键'的文字内容
 mask:true  	               //弹窗是否有遮罩层
+
+预览地址：https://loki0405.github.io/Pop-up-window/
